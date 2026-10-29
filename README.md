@@ -1,0 +1,2 @@
+# NETWORKWALKS-KHALID-IBRAHIMI-WK1-PM1-CYBERSECURITY-LAB-SETUP
+Cybersecurity Lab Setup using VirtualBox and Kali Linux 2026.3
